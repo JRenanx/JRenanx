@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Back-end e Mobile. 
-- ⚡ Meu dia só começa com café!
+- ⚡ Café!
 
 <div>
   <a href="https://github.com/JRenanx">
