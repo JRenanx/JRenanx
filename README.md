@@ -1,7 +1,7 @@
 ### Olá Mundo!  Me chamo Renan. 👋
 
 
-- 🌱 Estudando Back-end e Mobile. 
+- 🌱 Estudando. 
 - ⚡ Café!
 
 <div>
